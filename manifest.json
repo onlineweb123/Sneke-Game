@@ -1,6 +1,6 @@
 {
-  "name": "Progressive Web App Example",
-  "short_name": "PWA Example",
+  "name": "Sneke Game",
+  "short_name": "Sneke Game",
   "icons": [{
     "src": "icon-128x128.png",
       "sizes": "128x128",
